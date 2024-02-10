@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1025068349330",
+    "project_id": "deep-link-d81fd",
+    "storage_bucket": "deep-link-d81fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025068349330:android:be0e0b6abccabf99e5f34b",
+        "android_client_info": {
+          "package_name": "com.daily_challenge.deeplinking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025068349330-ab0qb8bbtti2mfb4qa7sdodhs44100i4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daily_challenge.deeplinking",
+            "certificate_hash": "8691d0cea8e1d6171a30d39cbee4b2a495d81b61"
+          }
+        },
+        {
+          "client_id": "1025068349330-8508efo3cmpq8p1j91ivk7q0ekhfunqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJDgXMjJxcQaSXzrlveg3GM6m4PHONQD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025068349330-8508efo3cmpq8p1j91ivk7q0ekhfunqf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025068349330-6g5jhl4del48gd9r3f0enlpc0v2a8jhc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dailyChallenge"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
